@@ -1,0 +1,144 @@
+#header {
+	background-color: rgba(0,0,0,0.6);
+	height: 46px;
+	min-width: 800px;
+}
+
+#header ul {
+	max-width: 1000px;
+	margin: 0 auto;
+	padding: 12px 0 0 0;
+}
+
+#header ul li {
+	list-style-type: none;
+	display: inline-block;
+	width: 12%;
+	text-align: center;
+	color: white;
+}
+
+#main-content {
+	background: #f2f2f2;
+}
+
+#main-top {
+	height: 300px;
+}
+
+#watch {
+	width: 104px;
+	margin: 0 auto;
+	padding-top: 60px;
+}
+
+#here {
+	margin-top: 20px;
+	font-size: 48px;
+	font-weight: 100;
+	letter-spacing: -0.025em;
+	line-height: 1.125;
+	color: #333;
+	font-style: normal;
+  font-family: "Myriad Set Pro","Lucida Grande","Helvetica Neue","Helvetica","Arial","Verdana","sans-serif";
+  text-align: center;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+#main-top ul {
+	text-align: center;
+	margin-top: 25px;
+}
+
+#main-top ul li {
+	list-style-type: none;
+	display: inline;
+	color: #08c;
+	margin: 0 10px;
+	font-size: 20px;
+  line-height: 1.4;
+  font-weight: 100;
+  font-style: normal;
+  font-family: "Myriad Set Pro","Lucida Grande","Helvetica Neue","Helvetica","Arial","Verdana","sans-serif";
+}
+
+#main-bottom {
+	height: 300px;
+	background: url("http://images.apple.com/v/home/bu/images/watch_medium.jpg") 50% 0 no-repeat;
+}
+
+#products {
+}
+
+.product {
+	display: inline-block;
+	min-width: 265px;
+	width: 24.7%;
+	height: 200px;
+}
+
+#one {
+	background: url("http://images.apple.com/v/home/bu/images/promo_change_everything_large.jpg") center center;
+	background-size: cover;
+}
+
+#two {
+	background: url("http://images.apple.com/v/home/bu/images/promo_world_gallery_large.jpg") center center;
+	background-size: cover;
+}
+
+#three {
+	background: url("http://images.apple.com/v/home/bu/images/promo_trees_large.jpg") center center;
+	background-size: cover;
+}
+
+#four {
+	background: url("http://images.apple.com/v/home/bu/images/promo_macbook_large.jpg") center center;
+	background-size: cover;
+}
+
+#footer {
+	margin: 20px auto 20px auto;
+	max-width: 980px;
+	font-size: 12px;
+  line-height: 1.3333;
+  font-weight: 100;
+  color: #999;
+}
+
+.footer-left {
+	float: left;
+	clear: right;
+}
+
+#footer-right {
+	float: right;
+}
+
+.list {
+	text-align: center;
+	margin-top: 25px;
+	padding: 0;
+	margin: 0;
+}
+
+.list li {
+	list-style-type: none;
+	display: inline;
+	padding: 0 5px;
+	font-size: 12px;
+  font-weight: 600;
+  font-style: normal;
+  font-family: "Myriad Set Pro","Lucida Grande","Helvetica Neue","Helvetica","Arial","Verdana","sans-serif";
+  border-left: 1px solid #999;
+}
+
+.pad-top {
+	padding-top: 10px;
+	margin-right: 5px;
+}
+
+#no-border {
+  border: 0;
+}
